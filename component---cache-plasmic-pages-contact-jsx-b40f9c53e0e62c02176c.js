@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[272],{2715:function(t,e,a){"use strict";a.r(e),a.d(e,{default:function(){return u}});var n=a(7294),r=a(6663);function u(){return n.createElement(r.Z,{projectId:"tQaW9gWJDEaD5V1LxRFrsR",component:"Contact"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-pages-contact-jsx-b40f9c53e0e62c02176c.js.map
